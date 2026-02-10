@@ -1,0 +1,11 @@
+Model Information:
+* title:	TASSE GRANDE
+* source:	https://sketchfab.com/3d-models/tasse-grande-0d119eb3a2b7425cb7d595c4ef12da0f
+* author:	cesarisaac (https://sketchfab.com/cesarisaac)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TASSE GRANDE" (https://sketchfab.com/3d-models/tasse-grande-0d119eb3a2b7425cb7d595c4ef12da0f) by cesarisaac (https://sketchfab.com/cesarisaac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

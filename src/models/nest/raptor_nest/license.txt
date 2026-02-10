@@ -1,0 +1,11 @@
+Model Information:
+* title:	Raptor nest
+* source:	https://sketchfab.com/3d-models/raptor-nest-7b5b8bb7f07349ea92a313de6079c620
+* author:	Cradle of the Cube (https://sketchfab.com/Observer_Terminator)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raptor nest" (https://sketchfab.com/3d-models/raptor-nest-7b5b8bb7f07349ea92a313de6079c620) by Cradle of the Cube (https://sketchfab.com/Observer_Terminator) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

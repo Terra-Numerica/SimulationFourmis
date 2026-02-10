@@ -1,0 +1,336 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 15381,
+      "max": [
+        1.019336223602295,
+        1.8988096714019775,
+        1.0171664953231812
+      ],
+      "min": [
+        -1.019336223602295,
+        -1.019336223602295,
+        -1.1902023553848267
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 184572,
+      "componentType": 5126,
+      "count": 15381,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 15381,
+      "max": [
+        0.9866438508033752,
+        0.9998128414154053
+      ],
+      "min": [
+        0.000187347483006306,
+        0.000187347483006306
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 78336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 369144,
+      "componentType": 5126,
+      "count": 4961,
+      "max": [
+        1.0486077070236206,
+        1.0486077070236206,
+        1.0982574224472046
+      ],
+      "min": [
+        -1.0486077070236206,
+        -1.0486077070236206,
+        1.0248759984970093
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 428676,
+      "componentType": 5126,
+      "count": 4961,
+      "max": [
+        1.0,
+        1.0,
+        0.9999991059303284
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999960064888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 123048,
+      "componentType": 5126,
+      "count": 4961,
+      "max": [
+        0.9999017119407654,
+        0.9688268899917603
+      ],
+      "min": [
+        9.841432620305568e-05,
+        9.841432620305568e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 313344,
+      "componentType": 5125,
+      "count": 27648,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "schteppn (https://sketchfab.com/schteppn)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/enamel-cup-32d5033eb7e7435696369ee300ad16e7",
+      "title": "enamel cup"
+    },
+    "generator": "Sketchfab-13.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 423936,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 162736,
+      "byteOffset": 423936,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 488208,
+      "byteOffset": 586672,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1074880,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Tasse",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7552261435388149,
+          0.7552261435388149,
+          0.7552261435388149,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.06285428679401694
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Ring",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6400000000000001,
+          0.6400000000000001,
+          0.6400000000000001,
+          1.0
+        ],
+        "roughnessFactor": 0.2605722226962977
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Tasse_Tasse_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ring_Ring_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "727a3dc80dd04499aab9801c07c2139e.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Tasse"
+    },
+    {
+      "mesh": 0,
+      "name": "Tasse_Tasse_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        98.13835906982422,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.598876813405526e-05,
+        -98.13835906982293,
+        0.0,
+        0.0,
+        98.13835906982293,
+        -1.598876813405526e-05,
+        0.0,
+        0.0,
+        -1.4986830949783325,
+        0.0,
+        1.0
+      ],
+      "name": "Ring"
+    },
+    {
+      "mesh": 1,
+      "name": "Ring_Ring_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

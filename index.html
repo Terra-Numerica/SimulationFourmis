@@ -1,74 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
-    <title>Ant simulation</title>
+<!DOCTYPE html> 
+<html lang='en'> 
+<head> 
+    <meta charset='UTF-8'> 
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'> 
+    <link rel='stylesheet' href='/src/css/style.css'> 
+    <script src='/src/js/main.js' type='module'></script> 
+    <script src='/src/framework/framework.js' type='module'></script> 
+    <script src='/src/framework/createScene.js' type='module'></script> 
+    <script src='/src/framework/table.js' type='module'></script> 
+    <script src='/src/framework/CTABanner.js' type='module'></script>
 
-    <link rel="stylesheet" href="./home_style.css">
-    <link rel="icon" type="image/x-icon" href="favicon.png">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/granim/2.0.0/granim.min.js"></script>
-
-</head>
-
-
-    <body>
-    <canvas id="canvas-basic"></canvas>
-            <div id="container">
-                <div id="mainPanel">
-                    <div class="title1">
-                        Ants and Maths
-                    </div>
-                        <div id="buttonContainer">
-
-                            <div id="button1">
-                                <button class="startButton1" onclick="window.location.href='./antMath/index.html';">Walking simulation</button>
-                                    <a href="#openModalWalkingSim"><img src="antMath/assets/buttonInfo.png" alt="Button information" class="buttonInfo"></a>
-                                    <div id="openModalWalkingSim" class="modalDialog1">
-                                        <div>
-                                            <a href="#close" title="Close" class="close">X</a>
-                                            <h2><u>Information about Walking Simulation</u></h2>
-                                            <p>This game will allow you to understand how the movement of ants works</p>
-                                        </div>
-                                    </div>
-
-                            </div>
-
-                            <div id="button2">
-                                <button class="startButton2" onclick="window.location.href='./antPheromon/index.html';">Pheromones simulation</button>
-
-                                    <a href="#openModalPheromones"><img src="antMath/assets/buttonInfo.png" alt="Button information" class="buttonInfo"></a>
-                                    <div id="openModalPheromones" class="modalDialog2">
-                                        <div>
-                                            <a href="#close" title="Close" class="close">X</a>
-                                            <h2><u>Information about Pheromones Simulation</u></h2>
-                                            <p>To be determined</p>
-                                        </div>
-                                    </div>
-
-                            </div>
-                        </div>
-                </div>
-            </div>
-
-        <script>
-            var granimInstance = new Granim({
-                element: '#canvas-basic',
-                direction: 'top-bottom',
-                isPausedWhenNotInView: true,
-                states : {
-                    "default-state": {
-                        gradients: [
-                            ['#BB9457', '#99582A'],
-                            ['#802B1C', '#5c1d0f'],
-                        ]
-                    }
-                }
-            });
-        </script>
-
-    </body>
-
-
+    <script src="/src/js/Drawing.js" type="module"></script>
+    <script src="/src/js/ant.js" type="module"></script>
+    <script src="/src/js/loop.js" type="module"></script>
+    <script src="/src/js/controle.js" type="module"></script>
+    <script src="/src/js/Food.js" type="module"></script>
+    <script src="/src/js/obstacle.js" type="module"></script>
+    <title>Ant simulation</title> 
+</head> 
+<body> 
+</body> 
 </html>

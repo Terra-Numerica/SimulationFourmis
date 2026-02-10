@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coffee Mug / Kaffeetasse
+* source:	https://sketchfab.com/3d-models/coffee-mug-kaffeetasse-bfac941dac7647678ad1cc26a102ad05
+* author:	Kafu Design (https://sketchfab.com/kufatschgu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coffee Mug / Kaffeetasse" (https://sketchfab.com/3d-models/coffee-mug-kaffeetasse-bfac941dac7647678ad1cc26a102ad05) by Kafu Design (https://sketchfab.com/kufatschgu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

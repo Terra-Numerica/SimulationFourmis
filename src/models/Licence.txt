@@ -1,0 +1,48 @@
+Model Information:
+* title:	Ant
+* source:	https://sketchfab.com/3d-models/ant-6ea6dfb45845443b9f99b2fe4456f9a3
+* author:	Ergin ERYILDIR (https://sketchfab.com/ergin3d.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ant" (https://sketchfab.com/3d-models/ant-6ea6dfb45845443b9f99b2fe4456f9a3) by Ergin ERYILDIR (https://sketchfab.com/ergin3d.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Model Information:
+* title:	Raptor nest
+* source:	https://sketchfab.com/3d-models/raptor-nest-7b5b8bb7f07349ea92a313de6079c620
+* author:	Cradle of the Cube (https://sketchfab.com/Observer_Terminator)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raptor nest" (https://sketchfab.com/3d-models/raptor-nest-7b5b8bb7f07349ea92a313de6079c620) by Cradle of the Cube (https://sketchfab.com/Observer_Terminator) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Model Information:
+* title:	enamel cup
+* source:	https://sketchfab.com/3d-models/enamel-cup-32d5033eb7e7435696369ee300ad16e7
+* author:	schteppn (https://sketchfab.com/schteppn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "enamel cup" (https://sketchfab.com/3d-models/enamel-cup-32d5033eb7e7435696369ee300ad16e7) by schteppn (https://sketchfab.com/schteppn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Model Information:
+* title:	Handpainted watercolor cake
+* source:	https://sketchfab.com/3d-models/handpainted-watercolor-cake-7f205e2fbfc14d209de9061be603b462
+* author:	Anna.Espenstein (https://sketchfab.com/Anna.Espenstein)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Handpainted watercolor cake" (https://sketchfab.com/3d-models/handpainted-watercolor-cake-7f205e2fbfc14d209de9061be603b462) by Anna.Espenstein (https://sketchfab.com/Anna.Espenstein) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
